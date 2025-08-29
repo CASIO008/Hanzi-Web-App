@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hanzi_pro</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <script src="main.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="score-box">
+            <div class="span_numbers">
+                <img src="image/check.svg" alt="check" class="check">
+                <span class="span" id="score-display">0 / 11092</span>
+            </div>
+        </div>
+    </header>
+    
+    <div class="blobs">
+        <div class="blob"></div>
+        <div class="blob"></div>
+        <div class="blob"></div>
+        <div class="blob"></div>
+        <div class="blob"></div>
+        <div class="blob"></div>
+    </div>
+
+    <div class="progress-bar-container">
+        <div class="progress-bar" id="progress-bar"></div>
+    </div>
+
+    <main class="main-content">
+        <div class="stars" id="stars">
+            </div>
+
+        <div class="word-box">
+            <svg id="svgLeftText" viewBox="0 0 200 50" width="200" height="50" class="svg-text-left">
+                <text id="left-context" x="195" y="35" text-anchor="end"></text>
+            </svg>
+    
+    <div class="character-container">
+        <h1 id="character-display"></h1>
+    </div>
+
+            <svg id="svgRightText" viewBox="0 0 200 50" width="200" height="50" class="svg-text-right">
+              <text id="right-context" x="5" y="35" text-anchor="start"></text>
+            </svg>
+
+    <div class="vertical-text left">
+                <span>学 习 汉 字</span>
+            </div>
+            <div class="vertical-text right">
+                <span>学 习 汉 字</span>
+            </div>
+    </div>
+
+         <svg id="audio-btn" viewBox="-4.08 -4.08 32.16 32.16" fill="none" xmlns="http://www.w3.org/2000/svg" transform="rotate(0)" class="audio-btn">
+          <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+          <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+          <g id="SVGRepo_iconCarrier">
+            <circle cx="12" cy="12" r="10" stroke="#505050" stroke-width="1.9919999999999998"></circle>
+            <path d="M13.8876 9.9348C14.9625 10.8117 15.5 11.2501 15.5 12C15.5 12.7499 14.9625 13.1883 13.8876 14.0652C13.5909 14.3073 13.2966 14.5352 13.0261 14.7251C12.7888 14.8917 12.5201 15.064 12.2419 15.2332C11.1695 15.8853 10.6333 16.2114 10.1524 15.8504C9.6715 15.4894 9.62779 14.7336 9.54038 13.2222C9.51566 12.7947 9.5 12.3757 9.5 12C9.5 11.6243 9.51566 11.2053 9.54038 10.7778C9.62779 9.26636 9.6715 8.51061 10.1524 8.1496C10.6333 7.78859 11.1695 8.11466 12.2419 8.76679C12.5201 8.93597 12.7888 9.10831 13.0261 9.27492C13.2966 9.46483 13.5909 9.69274 13.8876 9.9348Z" stroke="#c301fe" stroke-width="1.9919999999999998"></path>
+          </g>
+        </svg>
+        
+        <div class="feedback-container">
+        <p id="translation-display"></p>
+        <p id="feedback" class="feedback"></p>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="answer-input" class="answer-input" placeholder="Digite o pinyin ou a tradução...">
+            <button class="clear-btn" id="clear-btn"><img src="image/delete.svg" alt="clear-btn"></button>
+        </div>
+    </main>
+
+</body>
+</html>
+
