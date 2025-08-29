@@ -50,8 +50,7 @@ HanyuProject/
 └── public/
     ├── audio/
     │   ├── HSK1/
-    │   │   ├── ... (arquivos .mp3)
-    │   └── ... (outras pastas HSK)
+    │   │   └── ... (arquivos .mp3)
     ├── image/
     │   ├── check.svg
     │   └── delete.svg
