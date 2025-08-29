@@ -1,6 +1,7 @@
 # Hanzi Pro - Aplicativo de Aprendizado de Chinês
 
-![Captura de Tela do Hanzi Pro](image_6c0dbc.jpg)
+![Captura de Tela do Hanzi Pro](<img width="1364" height="681" alt="image" src="https://github.com/user-attachments/assets/ca529d3e-7109-42cc-8a23-0159e22d0d3a" />
+
 
 Bem-vindo ao Hanzi Pro! Um aplicativo web interativo e moderno, projetado para ajudar estudantes de mandarim a memorizar caracteres chineses (Hanzi) de forma eficiente, utilizando um sistema de repetição espaçada (SRS).
 
