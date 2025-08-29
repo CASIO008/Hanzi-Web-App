@@ -1,6 +1,7 @@
 # Hanzi Pro - Aplicativo de Aprendizado de Chinês
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/26e61e5a-4364-46b6-b91f-599f17df29a0" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/39b081f4-f9fa-4d7c-9c00-8f36caf9916e" />
+
 
 
 
