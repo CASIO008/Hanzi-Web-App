@@ -10,7 +10,7 @@ Bem-vindo ao Hanzi Pro! Um aplicativo web interativo e moderno, projetado para a
 
 O Hanzi Pro foi construído com foco em uma experiência de aprendizado eficaz e agradável.
 
-* **📚 Vasto Vocabulário:** Inclui um banco de dados com mais de 5000 palavras, cobrindo os níveis **HSK 1 ao HSK 6**.
+* **📚 Vocabulário:** Inclui um vocabulário de 89 palavras do **HSK 1** com áudio. 
 * **🧠 Sistema de Repetição Espaçada (SRS):** Utiliza um sistema de estrelas para acompanhar seu progresso. Cada palavra precisa atingir 17 estrelas para ser considerada "masterizada", garantindo uma memorização de longo prazo.
 * **🗣️ Aprendizado Contextual:** Cada caractere é apresentado dentro de uma frase de exemplo, ajudando a entender seu uso prático.
 * **🔊 Áudio de Qualidade:** Ouça a pronúncia correta de cada palavra e frase para aprimorar sua audição e fala.
