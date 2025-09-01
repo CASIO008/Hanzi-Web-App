@@ -38,6 +38,7 @@ Como este é um projeto front-end puro, não há necessidade de um processo de b
 2.  Navegue até o diretório do projeto:
     ```bash
     cd HanyuProject
+    cd public
     ```
 3.  Abra o arquivo `public/index.html` diretamente no seu navegador de preferência.
 
