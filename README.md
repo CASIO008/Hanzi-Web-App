@@ -51,9 +51,8 @@ Pronto! O aplicativo estará funcionando.
 ```
 HanyuProject/
 └── public/
-    ├── audio/
-    │   ├── HSK1/
-    │   │   └── ... (arquivos .mp3)
+    ├── HSK1/
+    │   └── ... (arquivos .mp3)
     ├── image/
     │   ├── check.svg
     │   └── delete.svg
