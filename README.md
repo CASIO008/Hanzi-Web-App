@@ -33,7 +33,7 @@ Como este é um projeto front-end puro, não há necessidade de um processo de b
 
 1.  Clone o repositório para sua máquina local:
     ```bash
-    git clone [https://github.com/CASIO008/HanyuProject.git](https://github.com/CASIO008/HanyuProject.git)
+    git clone https://github.com/CASIO008/HanyuProject.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
