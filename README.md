@@ -42,6 +42,8 @@ Como este é um projeto front-end puro, não há necessidade de um processo de b
     ```
 3.  Abra o arquivo `public/index.html` diretamente no seu navegador de preferência.
 
+4.  sugiro que use o `zoom-in` e `zoom-out` para ajustar ao seu tamanho de tela, geralmente **75%**.
+
 Pronto! O aplicativo estará funcionando.
 
 ## 📁 Estrutura do Projeto
